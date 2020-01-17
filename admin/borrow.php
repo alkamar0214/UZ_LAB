@@ -50,12 +50,12 @@ Tip 2: you can also add an image using data-image tag
 				<p>Dashboard</p>
 			</a>
 		</li>
-		<li> 
+		<!-- <li> 
 			<a href="student.php">
 				<i class="material-icons">person_pin</i>
 				<p>Student Profile</p>
 			</a>
-		</li>
+		</li> -->
 		<!-- <li class="nav-item ">
 			<a class="nav-link" data-toggle="collapse" href="#pagesExamples">
 				<i class="material-icons">person</i>
@@ -85,21 +85,27 @@ Tip 2: you can also add an image using data-image tag
 				<p>Borrow</p>
 			</a>
 		</li>
-		<li>
+		<!-- <li>
 			<a href="return.php">
 				<i class="material-icons">redo</i>
 				<p>Return</p>
 			</a>
-		</li>
+		</li> -->
 		<li>
 			<a href="./inventory.php">
 				<i class="material-icons">apps</i>
 				<p>Inventory</p>
 			</a>
 		</li>
+		<li>
+            <a href="./reports.php">
+                <i class="material-icons">print</i>
+                <p>Report</p>
+            </a>
+        </li>
 		<div class="logo"></div>
 		<li>
-			<a href="./notifications.html">
+			<a href="./logout.php">
 				<i class="material-icons">exit_to_app</i>
 				<p>Logout</p>
 			</a>
@@ -175,7 +181,7 @@ Tip 2: you can also add an image using data-image tag
 							<script>
 								document.write(new Date().getFullYear())
 							</script> |
-							<a href="#">K. Usman</a>, made with passion for a better system
+							<a href="#">UZ - </a> Science Laboratory Services
 						</p>
 					</div>
 				</footer>

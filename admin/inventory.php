@@ -51,36 +51,45 @@ Tip 2: you can also add an image using data-image tag
                 <p>Dashboard</p>
             </a>
         </li>
-        <li> 
+        <!-- <li> 
             <a href="student.php">
                 <i class="material-icons">person_pin</i>
                 <p>Student Profile</p>
             </a>
-        </li>
+        </li> -->
 		<li>
 			<a href="./borrow.php">
 				<i class="material-icons">undo</i>
 				<p>Borrow</p>
 			</a>
 		</li>
-		<li>
+		<!-- <li>
 			<a href="./return.php">
 				<i class="material-icons">redo</i>
 				<p>Return</p>
 			</a>
-		</li>
+		</li> -->
 		<li class="active">
 			<a href="./inventory.php">
 				<i class="material-icons">apps</i>
 				<p>Inventory</p>
 			</a>
 		</li>
+        <li>
+            <a href="./reports.php">
+                <i class="material-icons">print</i>
+                <p>Report</p>
+            </a>
+        </li>
+        <div class="logo"></div>
 		<div class="logo"></div>
 		<li>
-			<a href="./notifications.html">
-				<i class="material-icons">exit_to_app</i>
-				<p>Logout</p>
-			</a>
+			<li>
+            <a href="./logout.php">
+                <i class="material-icons">exit_to_app</i>
+                <p>Logout</p>
+            </a>
+        </li>
 		</li>
 		<li class="active-pro">
 			<a href="upgrade.html">
@@ -221,8 +230,7 @@ Tip 2: you can also add an image using data-image tag
 			<script>
 				document.write(new Date().getFullYear())
 			</script> |
-			<a href="#">Universidad de Zamboanga</a>, made with passion for a better system
-		</p>
+			<a href="#">UZ -</a> Science Laboratory Services
 	</div>
 </footer>
 </div>

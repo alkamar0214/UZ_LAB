@@ -211,8 +211,7 @@ Tip 2: you can also add an image using data-image tag
 			<script>
 				document.write(new Date().getFullYear())
 			</script> |
-			<a href="#">Universidad de Zamboanga</a>, made with passion for a better system
-		</p>
+			<a href="#">UZ -</a> Science Laboratory Services
 	</div>
 </footer>
 </div>

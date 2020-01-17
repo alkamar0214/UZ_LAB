@@ -50,13 +50,14 @@ Tip 2: you can also add an image using data-image tag
 				<p>Dashboard</p>
 			</a>
 		</li>
+<!-- 
 		<li class="active"> 
 			<a href="student.php">
 				<i class="material-icons">person_pin</i>
 				<p>Student Profile</p>
 			</a>
 		</li>
-		<!-- <li class="nav-item ">
+ -->		<!-- <li class="nav-item ">
 			<a class="nav-link" data-toggle="collapse" href="#pagesExamples">
 				<i class="material-icons">person</i>
 				<p> Student Profile
@@ -241,7 +242,7 @@ Tip 2: you can also add an image using data-image tag
 							<script>
 								document.write(new Date().getFullYear())
 							</script> |
-							<a href="#">K. Usman</a>, made with passion for a better system
+							<a href="#">UZ -</a> Science Laboratory Services
 						</p>
 					</div>
 				</footer>
@@ -383,3 +384,4 @@ if( !regex.test(key) ) {
     document.getElementById('theDate').value = today;
 </script>
 </html>
+-->

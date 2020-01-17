@@ -256,8 +256,8 @@
                         <script>
                             document.write(new Date().getFullYear())
                         </script>
-                        <a href="https://www.facebook.com/Pinaka.Mahabang.UserName.Sa.Peysbuk">K. Usman</a>, made with love for a better system
-                    </p>
+<!--                         <a href="https://www.facebook.com/Pinaka.Mahabang.UserName.Sa.Peysbuk">K. Usman</a>, made with love for a better system
+ -->                    </p>
                 </div>
             </footer>
         </div>

@@ -50,12 +50,12 @@ Tip 2: you can also add an image using data-image tag
 				<p>Dashboard</p>
 			</a>
 		</li>
-		<li> 
+		<!-- <li> 
 			<a href="student.php">
 				<i class="material-icons">person_pin</i>
 				<p>Student Profile</p>
 			</a>
-		</li>
+		</li> -->
 		<!-- <li class="nav-item ">
 			<a class="nav-link" data-toggle="collapse" href="#pagesExamples">
 				<i class="material-icons">person</i>
@@ -174,7 +174,7 @@ Tip 2: you can also add an image using data-image tag
 							<script>
 								document.write(new Date().getFullYear())
 							</script> |
-							<a href="#">K. Usman</a>, made with passion for a better system
+							<a href="#">UZ -</a> Science Laboratory Services
 						</p>
 					</div>
 				</footer>

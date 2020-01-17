@@ -60,7 +60,7 @@ require 'controller/db.php';
                     userLogin();
                     ?>
                     <hr>
-                    <p style="text-align: center;" class="text-muted">Science LAB Management © 2019 | Developed by: <a href="#">K</a></p>
+                    <p style="text-align: center;" class="text-muted">LAB Management © 2020 | Developed by: <a href="#">Alkamar Gustaham</a></p>
                 </div>
             </div>
         </div>
